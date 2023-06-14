@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+.btn {
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  padding: .5rem 1rem;
+  font-size: 1.5rem;
+}
+
+.btn--blue {
+  background-color: #3c3cfa;
+}
+
+.btn--blue:hover {
+  background-color: #3030f8;
+}
+
+.btn--red {
+  background-color: #fa3c3c;
+}
+
+.btn--red:hover {
+  background-color: #fa2222;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */

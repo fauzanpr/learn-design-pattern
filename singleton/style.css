@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+.btn {
+    color: white;
+    padding: .5rem 1rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.btn--blue {
+    background-color: #3c3cfa;
+}
+
+.btn--blue:hover {
+    background-color: #3030f8;
+}
+
+.btn--red {
+    background-color: #fa3c3c;
+}
+
+.btn--red:hover {
+    background-color: #fa2222;
+}
